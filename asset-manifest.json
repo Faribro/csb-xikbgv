@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://faribro.github.io/csb-xikbgv/static/css/main.36aecf88.chunk.css",
+    "main.js": "https://faribro.github.io/csb-xikbgv/static/js/main.95b62bcf.chunk.js",
+    "main.js.map": "https://faribro.github.io/csb-xikbgv/static/js/main.95b62bcf.chunk.js.map",
+    "runtime-main.js": "https://faribro.github.io/csb-xikbgv/static/js/runtime-main.673ad568.js",
+    "runtime-main.js.map": "https://faribro.github.io/csb-xikbgv/static/js/runtime-main.673ad568.js.map",
+    "static/js/2.21c16da9.chunk.js": "https://faribro.github.io/csb-xikbgv/static/js/2.21c16da9.chunk.js",
+    "static/js/2.21c16da9.chunk.js.map": "https://faribro.github.io/csb-xikbgv/static/js/2.21c16da9.chunk.js.map",
+    "index.html": "https://faribro.github.io/csb-xikbgv/index.html",
+    "static/css/main.36aecf88.chunk.css.map": "https://faribro.github.io/csb-xikbgv/static/css/main.36aecf88.chunk.css.map",
+    "static/js/2.21c16da9.chunk.js.LICENSE.txt": "https://faribro.github.io/csb-xikbgv/static/js/2.21c16da9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.673ad568.js",
+    "static/js/2.21c16da9.chunk.js",
+    "static/css/main.36aecf88.chunk.css",
+    "static/js/main.95b62bcf.chunk.js"
+  ]
+}
